@@ -1,2 +1,1 @@
-# calc-engine
-Modern, lightweight web calculator built with vanilla HTML5, CSS3, and ES6+ JS featuring keyboard support and smart input validation.
+Calc-Engine is a sleek, high-performance web calculator engineered with pure HTML5, modern CSS grid architecture, and ES6+ JavaScript. Designed for speed and precision, it features intelligent input validation, decimal controls, overflow prevention, and full keyboard interaction without relying on external libraries or frameworks.
